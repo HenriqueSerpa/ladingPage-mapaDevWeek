@@ -151,7 +151,7 @@ html{
     right: 20px;
 }
 
-@media(max-widht: 900px){
+@media(max-width: 900px){
     .conteudo-principal .paineis{
         height: 500px;
     }
